@@ -52,5 +52,5 @@ __Answer:__ It depends on what you want to achieve in the field. but let's say t
 
 Contributions are highly appreciated and welcomed. One this is required: __Do not suggest a resource that you did not try. If you tried a free resource and it helped you. please contribute it here.__
 
-Feel free to open and issue or send a pull request.
+Feel free to open an issue or send a pull request.
 
