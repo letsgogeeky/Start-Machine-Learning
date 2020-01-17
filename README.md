@@ -1,6 +1,8 @@
 # Getting started with Machine Learning
 A curated list of resources to get started with Machine Learning. It includes courses from MIT OCW, and other free and accessible resources.
 
+__This repo is for resources that were tried and proven quality and usefulness.__
+
 
 __Question:__ Should I start by the mathematics or the applications? 
 
