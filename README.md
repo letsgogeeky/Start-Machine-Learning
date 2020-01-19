@@ -22,6 +22,8 @@ __Answer:__ It depends on what you want to achieve in the field. but let's say t
 
 - Introduction to Deep Learning using Tensorflow: You’ll learn about Image classification using convolutional neural nets [Free course on Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
+- Deep Learning by MIT (Currently contains lectures from 2020 class recently being released) [MIT Deep Learning](https://deeplearning.mit.edu/)
+
 
 ## What about Mathematics?
 
